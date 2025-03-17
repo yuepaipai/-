@@ -1,0 +1,8 @@
+[2025-03-14 21:16:59.543221] 参数：n=222, r=22
+已生成题目数：0
+最后尝试的表达式：N/A
+错误信息：'MathGeneratorGUI' object has no attribute '_expr_value'
+[2025-03-14 21:17:05.394392] 参数：n=222, r=2222
+已生成题目数：0
+最后尝试的表达式：N/A
+错误信息：'MathGeneratorGUI' object has no attribute '_expr_value'
